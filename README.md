@@ -1,2 +1,2 @@
 # KYNavigationTranstion
-An easiest way of NavigationTransition.
+An framework of easiest way to NavigationTransition.
